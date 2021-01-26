@@ -1,6 +1,6 @@
 {
-  "name": "robocops",
-  "homepage": "https://omarjabaly.github.io/Robocops",
+  "name": "robocops-redux",
+  "homepage": "https://omarjabaly.github.io/robocops-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
