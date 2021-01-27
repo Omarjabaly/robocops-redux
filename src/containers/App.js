@@ -45,7 +45,8 @@ class App extends Component {
 		return ( 
 
  			<div className ='tc'>
-
+				<h3 className='f1 ma3'>Robocops</h3>
+				<Searchbox searchChange={onSearchChange}/>
  				{ (isPending) 
  					? 
  						<div className = 'flex justify-center f4'>
@@ -54,8 +55,7 @@ class App extends Component {
 
  					: 	
 			 			<div className ='tc'>
-							<h3 className='f1 ma3'>Robocops</h3>
-							<Searchbox searchChange={onSearchChange}/>
+
 							<ErrorBoundary>
 								<Scroll>
 									<Cardlist robots={filteredRobots} />
