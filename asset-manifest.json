@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robocops-redux/static/css/main.fee04f7c.chunk.css",
-    "main.js": "/robocops-redux/static/js/main.a14e8020.chunk.js",
-    "main.js.map": "/robocops-redux/static/js/main.a14e8020.chunk.js.map",
+    "main.js": "/robocops-redux/static/js/main.c22ee023.chunk.js",
+    "main.js.map": "/robocops-redux/static/js/main.c22ee023.chunk.js.map",
     "runtime-main.js": "/robocops-redux/static/js/runtime-main.868d29bd.js",
     "runtime-main.js.map": "/robocops-redux/static/js/runtime-main.868d29bd.js.map",
     "static/css/2.31461e4f.chunk.css": "/robocops-redux/static/css/2.31461e4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.23290371.chunk.js",
     "static/css/main.fee04f7c.chunk.css",
-    "static/js/main.a14e8020.chunk.js"
+    "static/js/main.c22ee023.chunk.js"
   ]
 }
