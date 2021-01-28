@@ -1,5 +1,7 @@
 @font-face { font-family: Chopsic-K6Dp; 
-			 src: url('./Chopsic-K6Dp.ttf'); } 
+			 src: url('./Chopsic-K6Dp.ttf');
+			 font-display: swap; 
+			} 
 h3{
 	font-family: Chopsic-K6Dp;
 	color: midnightblue;
